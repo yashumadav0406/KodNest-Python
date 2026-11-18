@@ -2,26 +2,26 @@
 
 ## My Name
 
-Write your name.
+Yashwanth Madav N L
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+I got to know about basics of programming, logical thinking, problem solving, critical thinking.
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+ I selected python because the recent AI, so i want to learn about AI, so i selected python
 
 ## My Career Goal
 
-Write the role you want to achieve.
+I want work in AI field
 
 ## What I Understood Today
 
-Complete these sentences:
+Complete these sentences:I understood about how to push code into github
 
-Programming means:
+Programming means:set of instructions to perform a task
 
-Python is:
+Python is: python is the programming language and python is the power full language and the popular all over the world
 
-In this track, I will learn:
+In this track, I will learn:The basics and logic of the programming language
